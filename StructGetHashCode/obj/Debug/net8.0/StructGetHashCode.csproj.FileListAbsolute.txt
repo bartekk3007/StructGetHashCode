@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\StructGetHashCode\bin\Debug\net8.0\StructGetHashCode.exe
+C:\Users\48571\source\repos\StructGetHashCode\bin\Debug\net8.0\StructGetHashCode.deps.json
+C:\Users\48571\source\repos\StructGetHashCode\bin\Debug\net8.0\StructGetHashCode.runtimeconfig.json
+C:\Users\48571\source\repos\StructGetHashCode\bin\Debug\net8.0\StructGetHashCode.dll
+C:\Users\48571\source\repos\StructGetHashCode\bin\Debug\net8.0\StructGetHashCode.pdb
+C:\Users\48571\source\repos\StructGetHashCode\obj\Debug\net8.0\StructGetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\StructGetHashCode\obj\Debug\net8.0\StructGetHashCode.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\StructGetHashCode\obj\Debug\net8.0\StructGetHashCode.AssemblyInfo.cs
+C:\Users\48571\source\repos\StructGetHashCode\obj\Debug\net8.0\StructGetHashCode.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\StructGetHashCode\obj\Debug\net8.0\StructGetHashCode.dll
+C:\Users\48571\source\repos\StructGetHashCode\obj\Debug\net8.0\refint\StructGetHashCode.dll
+C:\Users\48571\source\repos\StructGetHashCode\obj\Debug\net8.0\StructGetHashCode.pdb
+C:\Users\48571\source\repos\StructGetHashCode\obj\Debug\net8.0\StructGetHashCode.genruntimeconfig.cache
+C:\Users\48571\source\repos\StructGetHashCode\obj\Debug\net8.0\ref\StructGetHashCode.dll
